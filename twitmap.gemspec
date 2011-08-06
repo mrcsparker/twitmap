@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.name        = "twitmap"
   s.version     = Twitmap::VERSION
   s.authors     = ["Chris Parker"]
-  s.email       = ["mrcsparker@gmail.com.com"]
+  s.email       = ["mrcsparker@gmail.com"]
   s.homepage    = ""
   s.summary     = %q{Search twitter hashtags}
   s.description = %q{Search twitter hashtags and return results as links}
